@@ -15,3 +15,5 @@ logging.warning( u'This is a warning' )
 logging.error( u'This is an error message' )
 # Сообщение критическое
 logging.critical( u'FATAL!!!' )
+
+#branch master
